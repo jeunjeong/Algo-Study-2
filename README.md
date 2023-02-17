@@ -125,3 +125,11 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 | BOJ | 21921 | [블로그](https://www.acmicpc.net/problem/21921) | 투 포인터 | silver3 |
 | BOJ | 1913 | [달팽이](https://www.acmicpc.net/problem/1913) | 구현 | silver3 |
 
+### 🚩 week 3
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 21608 | [상어 초등학교](https://www.acmicpc.net/problem/21608) | 구현 | gold5 |
+| BOJ | 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | 그래프 탐색 | silver3 |
+| BOJ | 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | 시뮬레이션 | gold5 |
+| BOJ | 2512 | [예산](https://www.acmicpc.net/problem/2512) | 이분탐색 | silver3 |
+
