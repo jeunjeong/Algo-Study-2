@@ -133,3 +133,11 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 | BOJ | 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | 시뮬레이션 | gold5 |
 | BOJ | 2512 | [예산](https://www.acmicpc.net/problem/2512) | 이분탐색 | silver3 |
 
+### 🚩 week 4
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | 백트랙킹 | sliver3 |
+| BOJ | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | 분할정복 | gold5 |
+| BOJ | 21318 | [피아노 체조](https://www.acmicpc.net/problem/21318) | 누적합 | sliver1 |
+| BOJ | 9342 | [염색체](https://www.acmicpc.net/problem/9342) | 문자열 | silver3 |
+
